@@ -1,0 +1,23 @@
+﻿  JanGameOfLife.cpp
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,12): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,22): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,32): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,42): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,52): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,62): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+C:\Users\Jankoppin\source\repos\JanGOF\JanGOF\JanGameOfLife.h(9,74): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'JanGameOfLife.cpp')
+  
+  JanGOF.vcxproj -> C:\Users\Jankoppin\source\repos\JanGOF\x64\Debug\JanGOF.exe
